@@ -1,6 +1,8 @@
-# JavaLearn
+# Java Learn Project
 
 Java 学习笔记测试用例
+
+如果没有特别说明，测试代码默认放在 `test` 目录下面
 
 ## 模块及功能介绍
 
@@ -8,6 +10,7 @@ Java 学习笔记测试用例
 |---|---|
 |spring-aop| Spring AOP 面向切面编程|
 |spring-ioc| Spring IOC 控制反转（类[对象]交由Spring容器管理）|
+|restructure| 学习代码重构|
 
 ## AOP
 
@@ -39,3 +42,11 @@ IDEA
 Spring Boot
 2.0.3
 ```
+
+## 代码重构
+
+我很想在这一部分实现对 switch if-else代码的重构
+
+init 部分 是 switch 的使用，我想对他重构，还在学习
+
+ann 是注解的学习
