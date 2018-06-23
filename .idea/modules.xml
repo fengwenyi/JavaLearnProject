@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-enum/java-enum.iml" filepath="$PROJECT_DIR$/java-enum/java-enum.iml" />
       <module fileurl="file://$PROJECT_DIR$/restructure/restructure.iml" filepath="$PROJECT_DIR$/restructure/restructure.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-aop/spring-aop.iml" filepath="$PROJECT_DIR$/spring-aop/spring-aop.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" />
