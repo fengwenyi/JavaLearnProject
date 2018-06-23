@@ -8,6 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="restructure" />
         <module name="spring-aop" />
+        <module name="spring-cloud-eureka" />
+        <module name="spring-cloud-eureka-client" />
         <module name="spring-ioc" />
       </profile>
     </annotationProcessing>
@@ -15,6 +17,8 @@
       <module name="demo" target="1.8" />
       <module name="restructure" target="1.8" />
       <module name="spring-aop" target="1.8" />
+      <module name="spring-cloud-eureka" target="1.8" />
+      <module name="spring-cloud-eureka-client" target="1.8" />
       <module name="spring-ioc" target="1.8" />
     </bytecodeTargetLevel>
   </component>

@@ -1,0 +1,12 @@
+eureka:
+  client:
+    service-url:
+      DEFAULT_ZONE: http://localhost:8761/eureka/server, http://localhost:8762/eureka/server, http://localhost:8763/eureka/server
+  #instance:
+    # 域名
+    #hostname: eureka_client
+spring:
+  application:
+    # 应用名字
+    name: Eureka Client
+

@@ -6,6 +6,8 @@
         <option value="$PROJECT_DIR$/spring-ioc/pom.xml" />
         <option value="$PROJECT_DIR$/spring-aop/pom.xml" />
         <option value="$PROJECT_DIR$/restructure/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka-client/pom.xml" />
       </list>
     </option>
   </component>

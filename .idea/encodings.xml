@@ -3,6 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/restructure" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-aop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-ioc" charset="UTF-8" />
   </component>
 </project>
