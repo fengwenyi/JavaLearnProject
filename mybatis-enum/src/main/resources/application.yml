@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/learn
+    username: root
+    password: xfsy2018
+mybatis:
+  type-aliases-package: com.fengwenyi.learn.java.mybatisenum.model
+  mapper-locations: classpath:mapper/*.xml
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  type-handlers-package: com.fengwenyi.learn.java.mybatisenum.handlers
+

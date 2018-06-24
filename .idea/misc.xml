@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/spring-cloud-eureka/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-eureka-client/pom.xml" />
         <option value="$PROJECT_DIR$/java-enum/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-enum/pom.xml" />
       </list>
     </option>
   </component>

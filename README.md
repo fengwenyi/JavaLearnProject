@@ -11,6 +11,7 @@ Java 学习笔记测试用例
 |spring-aop| Spring AOP 面向切面编程|
 |spring-ioc| Spring IOC 控制反转（类[对象]交由Spring容器管理）|
 |restructure| 学习代码重构|
+|mybatis-enum| MyBtais整合Spring Boot整合，TypeHandler对枚举类（enum）处理 |
 
 ## AOP
 
@@ -50,3 +51,7 @@ Spring Boot
 init 部分 是 switch 的使用，我想对他重构，还在学习
 
 ann 是注解的学习
+
+## Spring Boot MyBatis enum TypeHandler
+
+学会使用 MyBtais 为我们提供了 TypeHandler

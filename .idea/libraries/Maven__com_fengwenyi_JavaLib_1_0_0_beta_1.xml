@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.fengwenyi:JavaLib:1.0.0.beta.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Maven/repository/com/fengwenyi/JavaLib/1.0.0.beta.1/JavaLib-1.0.0.beta.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../Maven/repository/com/fengwenyi/JavaLib/1.0.0.beta.1/JavaLib-1.0.0.beta.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../Maven/repository/com/fengwenyi/JavaLib/1.0.0.beta.1/JavaLib-1.0.0.beta.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
